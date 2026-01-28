@@ -15,7 +15,7 @@ I'm Francesco, a **PhD in Applied Mathematics** from Université Lumière Lyon 2
 - **Computational statistics** and method development
 
 ### 📈 Looking for opportunities in:
-Academia • Data Science • Quantitative Finance • Statistical Consulting • Research & Development
+Academia • Data Science • Quantitative Finance • Consulting • Research & Development
 
 ### 📫 Let's connect:
 - 📧 Email: fr.amato1997@gmail.com
