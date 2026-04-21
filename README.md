@@ -11,11 +11,10 @@ I'm Francesco, a **PhD in Applied Mathematics** from Université Lumière Lyon 2
 ### 🔍 Current interests:
 - **Statistical learning** and unsupervised methods
 - **Mixture models** for complex data structures  
-- **Quantitative finance** applications
 - **Computational statistics** and method development
 
 ### 📈 Looking for opportunities in:
-Academia • Data Science • Quantitative Finance • Consulting • Research & Development
+Academia • Data Science • Research & Development
 
 ### 📫 Let's connect:
 - 📧 Email: fr.amato1997@gmail.com
