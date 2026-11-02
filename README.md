@@ -1,4 +1,4 @@
-## Hi there 👋, I'm using Whats... no, wrong app, sorry 😅
+## Hi there 👋, I'm using Whats... no sorry, wrong app 😅
  
 I'm **Francesco**, a post-doc in **Computational Oncology** at [Cavalli Lab, Institut Curie](https://institut-curie.org/team/cavalli) 🧬
  
@@ -10,7 +10,7 @@ I'm **Francesco**, a post-doc in **Computational Oncology** at [Cavalli Lab, Ins
 - **PhD in Applied Mathematics** at Université Lumière Lyon 2, thesis on *clustering longitudinal mixed-type data*
 - **PhD research interests:** mixture models, statistical learning, tensor-/matrix-variate distributions, longitudinal data analysis
 - 👨‍🏫 **Teaching:** more 320 hours of statistics, applied mathematics, machine learning and programming at university level
-- 
+  
 ### 🛠️ Tech stack
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
